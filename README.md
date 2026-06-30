@@ -1,0 +1,2 @@
+# 6efd65735335fba7-devops-infra-automated-email-s
+The fastest way to add powerful functionality to WordPress without writing code. No setup fees. No learning curve.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Devops Infra Automated Email Sequence Builder — fully configured and ready to use - Clean a
